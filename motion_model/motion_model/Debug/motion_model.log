@@ -1,0 +1,26 @@
+﻿  motion_model.cpp
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\motion_model\motion_model\motion_model.cpp(40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\motion_model\motion_model\motion_model.cpp(63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\motion_model\motion_model\motion_model.cpp(65): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\motion_model\motion_model\motion_model.cpp(81): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\motion_model\motion_model\motion_model.cpp(83): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\motion_model\motion_model\motion_model.cpp(84): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\motion_model\motion_model\motion_model.cpp(86): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\motion_model\motion_model\motion_model.cpp(86): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  motion_model.vcxproj -> C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\motion_model\Debug\motion_model.exe
