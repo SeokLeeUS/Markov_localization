@@ -2,6 +2,10 @@
 Udacity project 5- localization, particle filter prep work 
 IDE: Visual studio 2019
 
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+
 Localization	vs Sensor Fusion
 Things are in vehicle coordinates OR map coordinates. The entire objective of localization is to find the transformation between vehicle coordinates and map coordinates. In other words, we’re trying to find the position of the car in the map!	Everything is in vehicle coordinates where the x axis points in the direction of the car’s heading and the y axis points to the left of the car.
 The position of the car is described in map coordinates.	The car is always assumed to be at the origin of the vehicle coordinate system.
