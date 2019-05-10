@@ -1,0 +1,24 @@
+﻿  initialize_priors_func.cpp
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\initialize_priors_func\initialize_priors_func\initialize_priors_func.cpp(25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\initialize_priors_func\initialize_priors_func\initialize_priors_func.cpp(45): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\initialize_priors_func\initialize_priors_func\initialize_priors_func.cpp(49): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\initialize_priors_func\initialize_priors_func\initialize_priors_func.cpp(50): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\initialize_priors_func\initialize_priors_func\initialize_priors_func.cpp(53): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\initialize_priors_func\initialize_priors_func\initialize_priors_func.cpp(53): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  initialize_priors_func.vcxproj -> C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\initialize_priors_func\Debug\initialize_priors_func.exe
