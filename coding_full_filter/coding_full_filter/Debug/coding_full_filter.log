@@ -1,0 +1,34 @@
+﻿  coding_full_filter.cpp
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\coding_full_filter\coding_full_filter\helpers.h(35): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\coding_full_filter\coding_full_filter\coding_full_filter.cpp(45): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\coding_full_filter\coding_full_filter\coding_full_filter.cpp(65): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\coding_full_filter\coding_full_filter\coding_full_filter.cpp(93): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\coding_full_filter\coding_full_filter\coding_full_filter.cpp(101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\coding_full_filter\coding_full_filter\coding_full_filter.cpp(149): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\coding_full_filter\coding_full_filter\coding_full_filter.cpp(178): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\coding_full_filter\coding_full_filter\coding_full_filter.cpp(194): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\coding_full_filter\coding_full_filter\coding_full_filter.cpp(223): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\coding_full_filter\coding_full_filter\coding_full_filter.cpp(254): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\coding_full_filter\coding_full_filter\coding_full_filter.cpp(256): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\coding_full_filter\coding_full_filter\coding_full_filter.cpp(270): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\coding_full_filter\coding_full_filter\coding_full_filter.cpp(272): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\coding_full_filter\coding_full_filter\coding_full_filter.cpp(273): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\coding_full_filter\coding_full_filter\coding_full_filter.cpp(275): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\coding_full_filter\coding_full_filter\coding_full_filter.cpp(275): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  coding_full_filter.vcxproj -> C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\coding_full_filter\Debug\coding_full_filter.exe
